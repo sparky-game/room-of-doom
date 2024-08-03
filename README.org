@@ -3,7 +3,7 @@
 # Logo & Title
 #+begin_html
 <h1>
-<img height="256" align="left" style="float: left; margin: 0 10px 0 0;" src="assets/cover.jpg" alt="Room of Doom Cover">
+<img height="256" align="left" style="float: left; margin: 0 10px 0 0;" src="assets/cover.png" alt="Room of Doom Cover">
 <br/>
 Room of Doom
 </h1>
