@@ -10,7 +10,7 @@ Room of Doom
 #+end_html
 
 #+begin_quote
-This is an *unofficial* remake and has nothing to do with the original copy of the game. It has been develop as an example project to showcase the capabilities of the [[https://github.com/sparky-game/volt][Volt Game Engine]]; therefore, it's *purely educational* in nature and has *no commercial intent*.
+This is an *unofficial* remake and has nothing to do with the original copy of the game. It has been developed as an example project to showcase the capabilities of the [[https://github.com/sparky-game/volt][Volt Game Engine]]; therefore, it's *purely educational* in nature and has *no commercial intent*.
 #+end_quote
 
 ESCAPE! Your mind throbs, trapped in the *Room of Doom*, the fiendish gunmen are trying to annihilate you. Shots come from secret portholes that *mysteriously open and close*. Watch out! The gunmen have unleashed a hydra-headed monster; it relentlessly pursues you. Don't panic! Your marksmanship can stun it, but only for a moment. Should you remain in the Room of Doom too long, the monster becomes *invulnerable* to your bullets.
